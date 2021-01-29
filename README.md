@@ -2,7 +2,7 @@
 
 ### Introduction
 This project seeks to investigate the electric (bluecars) car usage in Paris by performing Hypothesis Test to see if there is a difference in the means of blue cars taken from two different postal codes selected randomly on weekdays. 
-
+The link to the hypothesis report can be found here https://docs.google.com/document/d/1fs8Q6IoQGByLUoTjboTOYmswDrgb71VhoiGYlbIgkZQ/edit?usp=sharing 
 ### Motivation
 This project was done as part of an assessment for a Data Science Course
 
