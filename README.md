@@ -7,13 +7,13 @@ This project seeks to investigate the electric (bluecars) car usage in Paris by 
 This project was done as part of an assessment for a Data Science Course
 
 ### Summary of Analysis
-Defining the Question
-Reading the Data.
-Checking the Data.
-Performing Univariate, Bivariate
-Creating Visualizations.
-Hypthesis Testing
-Summary and Conclusions.
+1. Defining the Question
+2. Reading the Data.
+3. Checking the Data.
+4. Performing Univariate, Bivariate
+5. Creating Visualizations.
+6. Hypthesis Testing
+7. Summary and Conclusions.
 
 ### Technologies and Software Used
 Python 3 Google Colab Jupyter Notebook
